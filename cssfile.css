@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+form {
+  text-align: center;
+    border-color: black;
+    border-style: inset;
+    height: 80%;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
