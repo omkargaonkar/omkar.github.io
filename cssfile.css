@@ -1,29 +1,15 @@
-body {
-    height: 100%;
-    width: 100%;
-}
 form {
-  text-align: center;
-    border-color: black;
+    text-align: center;
     border-style: inset;
-    height: 80%;
+    border-color: black;
+    height: 90%;
     width: 90%;
-    margin-top: 5%;
     margin-left: 5%;
+    margin-top: 5%;
 }
-button#backpage {
-    /* height: 10%; */
-    height: 10%;
+#nextpage {
     border-radius: 50%;
-    float: left;
-    margin-top: 25%;
-
 }
-button#nextpage {
-    /* height: 10%; */
-    height: 10%;
+#backpage {
     border-radius: 50%;
-float: right;
-    margin-top: 25%;
-
 }
